@@ -63,4 +63,3 @@ app.delete('/api/data', (req, res) => {
 })
 
 app.listen(PORT, () => console.log(`Server has started on: ${PORT}`))
-//test
